@@ -1,7 +1,7 @@
 <p align="center">
 	<img width="200" height="200" margin-right="100%" src="https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/AppIcon.png">
 </p>
-<p align="center">Hide menu bar icons to give your Mac a cleaner look.</p>
+<p align="center">Hide menu bar icons to give your Mac a cleaner look. Dozer 是一款隐藏macOS菜单栏图标的应用，不同于 Bartender 和 Vanilla，Dozer 是免费、开源的。Dozer 操作方法也很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会出现另外一个「‧」，按住 command 键拖曳「‧」调整到适当位置，然后点击一下「‧」就会隐藏第一个「‧」左边的图标，重新显示也只需要点击「‧」即可。具体的大家可以上手体验一下，很简单的。</p>
 <p align="center">
 	<a href="https://github.com/Mortennn/Dozer/releases/latest">
  		<img src="https://img.shields.io/badge/download-latest-brightgreen.svg" alt="download">
@@ -24,6 +24,8 @@
 
 <p align="center"></p>
 <a href="https://www.buymeacoffee.com/mortennn" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## Dozer 是一款隐藏macOS菜单栏图标的应用，不同于 Bartender 和 Vanilla，Dozer 是免费、开源的。Dozer 操作方法也很简单，Dozer运行后在菜单栏会出现一个「‧」，点击它，然后会出现另外一个「‧」，按住 command 键拖曳「‧」调整到适当位置，然后点击一下「‧」就会隐藏第一个「‧」左边的图标，重新显示也只需要点击「‧」即可。具体的大家可以上手体验一下，很简单的。
 
 ## ⚙️ Install
 Using [Homebrew Cask](https://formulae.brew.sh/cask/dozer):
